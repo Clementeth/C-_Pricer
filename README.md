@@ -7,7 +7,7 @@ The objective was to design and implement a complete option pricing framework in
 The assignment was structured in several parts:
 
 ### 1. Black–Scholes Model
-- Implementation of an abstract `Option` class and derived European vanilla options (Call/Put)
+- Implementation of an abstract Option class and derived European vanilla options (Call/Put)
 - Implementation of the Black–Scholes pricer for pricing and delta computation
 - Use of analytical formulas under standard assumptions (lognormal dynamics, no arbitrage)
 
