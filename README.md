@@ -1,6 +1,6 @@
 ## Project Description (Assignment)
 
-This project was developed as part of our “C++ for Finance” course, in a **team of 5 students, and received a final grade of **15/20**.
+This project was developed as part of our “C++ for Finance” course, in a team of 5 students, and received a final grade of **15/20**.
 
 The objective was to design and implement a complete option pricing framework in C++, combining financial theory, numerical methods, and object-oriented programming.
 
